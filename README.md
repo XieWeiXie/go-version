@@ -11,6 +11,7 @@
 - gopkg.in
 - travisCI
 - badges
+- markdown
 
 ### 1. 项目目录
 
