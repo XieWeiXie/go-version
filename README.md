@@ -1,6 +1,7 @@
 # go-version
 
 [![GoDoc](https://godoc.org/github.com/wuxiaoxiaoshen/go-version?status.svg)](https://godoc.org/github.com/wuxiaoxiaoshen/go-version)
+[![Go Report Card](https://goreportcard.com/badge/github.com/wuxiaoxiaoshen/go-version)](https://goreportcard.com/report/github.com/wuxiaoxiaoshen/go-version)
 
 > Go 构建开源库的流程
 
@@ -85,6 +86,7 @@ go mod vendor 即可
 ``` 
 gopkg.in/pkg.v3      → github.com/go-pkg/pkg (branch/tag v3, v3.N, or v3.N.M)
 gopkg.in/user/pkg.v3 → github.com/user/pkg (branch/tag v3, v3.N, or v3.N.M)
+
 
 >>
 
